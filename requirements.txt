@@ -1,0 +1,18 @@
+# Core Machine Learning & Information Retrieval
+rank-bm25>=0.2.2
+faiss-cpu>=1.9.0
+scikit-learn>=1.5.0
+numpy>=1.26.0
+
+# Document Processing & OCR
+pymupdf>=1.24.0
+
+# Generative AI & Language Models
+google-genai>=0.1.0
+
+# Web UI & Frontend Dashboard
+streamlit>=1.40.0
+pandas>=2.2.0
+
+# Testing
+pytest>=8.0.0
