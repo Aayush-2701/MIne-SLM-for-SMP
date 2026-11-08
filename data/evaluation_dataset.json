@@ -1,0 +1,109 @@
+[
+  {
+    "query_id": "EVAL-001",
+    "query_text": "What are the statutory requirements for the Safety Management Plan under Regulation 104 of Coal Mines Regulations 2017?",
+    "query_language": "en",
+    "expected_source": "DGMS-CMR-2017",
+    "expected_section": "Regulation 104 - Safety Management Plan (SMP)",
+    "expected_answer_points": [
+      "Mandated within one year of CMR 2017 coming into force",
+      "Must be based on Hazard Identification and Risk Assessment (HIRA)",
+      "Follows hierarchy of controls (Elimination, Substitution, Engineering, Admin, PPE)",
+      "Review required at least once every calendar year or after serious accident/alteration"
+    ]
+  },
+  {
+    "query_id": "EVAL-002",
+    "query_text": "What is the maximum permissible gradient and minimum berm height for opencast haul roads?",
+    "query_language": "en",
+    "expected_source": "DGMS-CMR-2017",
+    "expected_section": "Regulation 83 & 84 - Haul Roads and Dumpers",
+    "expected_answer_points": [
+      "Haul road gradient shall not be steeper than 1 in 16 (short ramps up to 1 in 10)",
+      "Width at least 3 times widest vehicle width for 2-way traffic",
+      "Berm height not less than diameter of tyre (wheel height) of largest vehicle"
+    ]
+  },
+  {
+    "query_id": "EVAL-003",
+    "query_text": "ओपनकास्ट खदान में ब्लास्टिंग के समय डेंजर जोन की दूरी कितनी होनी चाहिए और क्या सावधानियां आवश्यक हैं?",
+    "query_language": "hi",
+    "expected_source": "DGMS-CMR-2017",
+    "expected_section": "Regulation 171 & 186 - Explosives, Shotfiring, and Blasting Precautions",
+    "expected_answer_points": [
+      "Danger zone radius not less than 500 metres from blast site",
+      "All persons evacuated to blasting shelters and access paths manned with red flags",
+      "Siren protocol: 10 min first siren, 2 min second siren, post-blast all-clear siren"
+    ]
+  },
+  {
+    "query_id": "EVAL-004",
+    "query_text": "भूमिगत कोयला खदान में मीथेन (Inflammable gas) की अधिकतम अनुमेय सीमा क्या है?",
+    "query_language": "hi",
+    "expected_source": "DGMS-CMR-2017",
+    "expected_section": "Regulation 153 & 155 - Standards of Ventilation and Mine Gases",
+    "expected_answer_points": [
+      "Max 0.75% in general body of return air of ventilating district",
+      "Max 1.25% in main return airway",
+      "Electrical power must be cut off instantly if gas reaches 1.25% at working place"
+    ]
+  },
+  {
+    "query_id": "EVAL-005",
+    "query_text": "How is risk scored in DGMS Technical Circular 02 of 2020 and what are the action levels for High Risk?",
+    "query_language": "en",
+    "expected_source": "DGMS-CIRCULAR-2020-02",
+    "expected_section": "Section 3 - Systematic Hazard Identification and Risk Scoring (HIRA)",
+    "expected_answer_points": [
+      "5x5 Risk Matrix: Risk Score = Likelihood (1-5) x Consequence (1-5)",
+      "Score ranges: Low (1-4), Medium (5-9), High (10-15), Critical (16-25)",
+      "High Risk is unacceptable without additional risk reduction within specified timeline"
+    ]
+  },
+  {
+    "query_id": "EVAL-006",
+    "query_text": "What specific slope stability monitoring is mandated for deep opencast pits exceeding 100 metres depth?",
+    "query_language": "en",
+    "expected_source": "DGMS-CIRCULAR-2021-06",
+    "expected_section": "Section 2 - Slope Stability Radar and Geotechnical Monitoring",
+    "expected_answer_points": [
+      "Deployment of continuous real-time Slope Stability Radar (SSR) along critical highwalls",
+      "Piezometers installed across pit crest and periphery to monitor pore pressure",
+      "Weekly crack survey; crack dilation > 5 mm/day triggers TARP Level-2 alert"
+    ]
+  },
+  {
+    "query_id": "EVAL-007",
+    "query_text": "What are the bench dimensions and haul road parameters at Gevra Opencast Project?",
+    "query_language": "en",
+    "expected_source": "MINE-PLAN-GEVRA-OPENCAST",
+    "expected_section": "Operational Overview and Geotechnical Specifications",
+    "expected_answer_points": [
+      "Overburden bench height 15.0m, coal bench height 12.0m, width 35-45m",
+      "Haul road width 35m, gradient 1 in 16",
+      "Continuous berm height 2.7m matching 240T dumper tyre diameter"
+    ]
+  },
+  {
+    "query_id": "EVAL-008",
+    "query_text": "खान में गंभीर दुर्घटना होने पर खान प्रबंधक को किसे और कितने समय में सूचना देनी होती है?",
+    "query_language": "hi",
+    "expected_source": "MINES-ACT-1952",
+    "expected_section": "Section 23 - Notice of Accidents and Dangerous Occurrences",
+    "expected_answer_points": [
+      "Within 24 hours of accident or dangerous occurrence",
+      "Notice to Chief Inspector of Mines, Regional Inspector, and District Magistrate",
+      "Prescribed Form IV-A / IV-B"
+    ]
+  },
+  {
+    "query_id": "EVAL-009",
+    "query_text": "What are the quantum computing requirements for longwall face shearers according to DGMS?",
+    "query_language": "en",
+    "expected_source": "None",
+    "expected_section": "None",
+    "expected_answer_points": [
+      "ABSTAIN: The available DGMS safety regulations and knowledge base contain no provisions regarding quantum computing."
+    ]
+  }
+]
